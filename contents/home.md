@@ -4,4 +4,4 @@ Raíces Este-USA es una agrupación integrada por investigadores, científicos, 
 La misión principal de Raíces Este-USA es conectar a los científicos argentinos residentes en EE.UU., tanto temporal como permanentemente, para fortalecer y promover colaboraciones entre la comunidad científica argentina y estadounidense. Entre sus objetivos se cuentan el contribuir a la formación profesional en Argentina, establecer un canal de comunicación entre científicos en EE.UU. y entidades argentinas, ejecutar proyectos que vinculen a los científicos con la sociedad civil argentina, y fomentar el desarrollo de proyectos de cooperación científica.
 
 #### Email
-raices.noreste.estadosunidos[AT]gmail.com
+raiceseste[AT]gmail.com
