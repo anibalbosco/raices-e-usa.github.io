@@ -51,7 +51,7 @@
 * <a href="https://www.linkedin.com/in/german-drazer/" target="_blank">GErman Drazer</a> - Mecanica de fluidos, transporte en medios porosos, separacion, microfluidica, filtrado de aire
 * <a href="LinkedIn Clara berdasco" target="_blank">Clara Berdasco</a> - Neuroscience 
 * <a href="https://www.linkedin.com/in/maria-portal-7118ab92/" target="_blank">Maria Gabriela  Portal</a> - Inglés, Enseñanza, Lingüística Aplicada, Español para Extranjeros, Intercambios Culturales
-* <a href="https://orcid.org/0000-0002-7958-4218, linkedin/lucianamenibattaglia" target="_blank">Luciana Meni Battaglia</a> - Medicona
+* <a href="https://orcid.org/0000-0002-7958-4218" target="_blank">Luciana Meni Battaglia</a> - Medicina
 * <a href="https://www.linkedin.com/in/erikafaraoni/" target="_blank">Erika Faraoni</a> - Cancer, Nutricion, Salud Hormonal, Medical & Scientific Writing
 * <a href="https://linkedin.com/in/claudio-bonaventura" target="_blank">Claudio Bonaventura</a> - Salud / Medicina (Epidemiología y Control de infecciones - Salud Pública - Docencia e investigación)
 * <a href="https://www.linkedin.com/in/virginiaunq/" target="_blank">Virginia Gonzalez</a> - Bioinformatica, biotecnologia, inteligencia artificial, biología computacional , agrigenomics, metagenomica 
