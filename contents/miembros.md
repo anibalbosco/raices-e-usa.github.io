@@ -46,7 +46,7 @@
 * <a href="https://linkedin.com/in/boggiano" target="_blank">César Boggiano</a> - Desarrollo de vacunas y biologics para prevenir VIH y tuberculosis.
 * <a href="https://www.linkedin.com/in/juan-peyrou" target="_blank">Juan Peyrou</a> - Sociología, historia de las ciencias, gestión en ciencia, tecnología e innovación, comunicación
 * <a href="https://www.linkedin.com/in/gabrieladelarranaga" target="_blank">Gabriela de Larrañaga</a> - Bioquimica
-* <a href="https://physics.missouri.edu, https://www.linkedin.com/in/carlos-wexler-77a87727b/, https://orcid.org/0000-0002-7038-2628" target="_blank">Carlos Wexler</a> - Fisica, Materiales, Materia Condensada, Adsorcion, Simulaciones
+* <a href="https://www.physics.missouri.edu" target="_blank">Carlos Wexler</a> - Fisica, Materiales, Materia Condensada, Adsorcion, Simulaciones
 * <a href="https://www.linkedin.com/in/andrea-capurro/" target="_blank">Andrea Capurro</a> - Conservación marina, sustentabilidad, asesoramiento en políticas basadas en evidencia científica, protección ambiental, Areas Marinas Protegidas, gestión sustentable de recursos vivos marinos
 * <a href="https://www.linkedin.com/in/german-drazer/" target="_blank">GErman Drazer</a> - Mecanica de fluidos, transporte en medios porosos, separacion, microfluidica, filtrado de aire
 * <a href="LinkedIn Clara berdasco" target="_blank">Clara Berdasco</a> - Neuroscience 
