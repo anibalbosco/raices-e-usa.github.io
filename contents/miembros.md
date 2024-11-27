@@ -2,7 +2,7 @@
 
 * <a href="https://orcid.org/0000-0002-5090-7079" target="_blank">Anibal Boscoboinik</a> - Fisica Quimica Materiales Nanotecnologia Superficies
 * <a href="https://www.linkedin.com/feed/" target="_blank">Walter Cellario</a> - Economia
-* <a href="Www.fuxmanlab.com" target="_blank">Juan Fuxman Bass</a> - Systems biology
+* <a href="https://www.fuxmanlab.com" target="_blank">Juan Fuxman Bass</a> - Systems biology
 * <a href="https://scholar.google.com/citations?user=n_RB2jEAAAAJ&hl=en" target="_blank">Adrián  Feiguin</a> - Física 
 * <a href="https://gasconlab.org/" target="_blank">Jose  Gascon</a> - Química Computacional, Biofísica, Simulaciones Moleculares, MD, QM/MM
 * <a href="https://co-labo.org/" target="_blank">Andrés Colubri</a> - Modelado de enfermedades infecciones, visualizacion de datos, inteligencia artificial
