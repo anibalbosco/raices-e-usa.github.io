@@ -56,3 +56,30 @@
 * <a href="https://linkedin.com/in/claudio-bonaventura" target="_blank">Claudio Bonaventura</a> - Salud / Medicina (Epidemiología y Control de infecciones - Salud Pública - Docencia e investigación)
 * <a href="https://www.linkedin.com/in/virginiaunq/" target="_blank">Virginia Gonzalez</a> - Bioinformatica, biotecnologia, inteligencia artificial, biología computacional , agrigenomics, metagenomica 
 * <a href="https://scienceoflightcenter.org/diego-fernandez-lab/" target="_blank">Diego Fernandez</a> - Neurociencia
+* <a href="https://www.linkedin.com/in/miguel-mostafa-16604257/" target="_blank">Miguel Mostafa</a> - Astrofisica de particulas, decano de la facultad de ciencias
+* <a href="https://www.wilsoncenter.org/person/patricia-i-v%C3%A1squez" target="_blank">Patricia  Vasquez</a> - Litio-Minerales Críticos
+* <a href="https://www.hermanaguinis.com/" target="_blank">Herman Aguinis</a> - Administracion de empresas, gerencia, estrategia, negocios, liderazgo
+* <a href="www.linkedin.com/in/rominaearaya" target="_blank">Romina Elizabeth Araya</a> - Cancer, Microbiota, Immunologia
+* <a href="https://www.nimh.nih.gov/research/research-conducted-at-nimh/research-areas/clinics-and-labs/etpb/about-us" target="_blank">Carlos Zarate</a> - depresión, trastorno bipolar, neurobiología, neurociencia clínica, psiquiatría, suicidio, tratamiento
+* <a href="DOCTOR@HGSMED.COM" target="_blank">HORACIO G SCHAPIRO MD SCHAPIRO</a> - MEDICINA
+* <a href="https://education.umd.edu/directory/carolina-napp-avelli" target="_blank">Carolina  Napp Avelli</a> - Educación matemática, didáctica de la matemática, Enseñanza del álgebra, Enseñanza de la matemática para alumnos multilingües, Relaciones entre familias y escuelas
+* <a href="https://orcid.org/0000-0002-2822-3412" target="_blank">María Emilia Rebollo</a> - Ornitología, Ecología, Conservación de la Biodiversidad
+* <a href="linkedin.com/in/mariaicasas5" target="_blank">Maria Isabel Casas</a> - bioquimica; biologia molecular; organizacion sin fines de lucro
+* <a href="https://agomezvidal.com" target="_blank">Analía Gómez Vidal</a> - Coach profesional especializada en educación internacional y carreras de posgrado | Investigadora de Ciencia política, economía política, y género en política |
+Consultora de investigación y desarrollo profesional para instituciones educativas y de investigación
+* <a href="ORCID: 0000-0001-9930-8563" target="_blank">Maria Laura  Allende</a> - Terapia genética en modelos animales para la cura de enfermedades lisosomales
+* <a href="https://www.linkedin.com/in/wiggenhauser/" target="_blank">Nicolas Wiggenhauser</a> - Neurociencia; Parkinson's; Evolución; Inteligencia; Antropología Biológica;
+* <a href="No" target="_blank">Eduardo Callegari</a> - Proteomica
+* <a href="https://bsky.app/profile/sangasso.bsky.social" target="_blank">Santiago Gassó</a> - Satélites ópticos , detección remota de la atmósfera, aerosoles contaminación atmoferica, transporte de aerosoles el Sudamerica y hemisferio sur. Técnicas de transferencia radiativa y creación de algoritmos para satélites
+* <a href="www.math.temple.edu/szyld" target="_blank">Daniel Szyld</a> - Algebra Lineal Numerica, Analisis Numerico. Computacion en paralelo.
+* <a href="https://profiles.hopkinsmedicine.org/provider/andres-matoso/2708014" target="_blank">Andres Matoso</a> - Patologia urologica
+* <a href="LinkedIn: Gabriela Evelyn Farias Quipildor" target="_blank">Gabriela Farias Quipildor</a> - Envejecimiento, Alzheimer's Disease, Microglia
+* <a href="https://www.worldbank.org/en/about/people/s/sergio-schmukler" target="_blank">Sergio Schmukler</a> - Economia
+* <a href="Linkedin" target="_blank">Guillermo Warley</a> - Inteligencia artificial, ingeniería electrónica, impacto social de las nueva tecnologías, fuentes de energía renovables.
+* <a href="WWW.Salidolab.com" target="_blank">Ezequiel SALIDO</a> - medicina, nerociencia, oftalmologia, matrices extracelulares
+* <a href="https://orcid.org/0000-0001-5329-7758" target="_blank">Daniela Terson de Paleville</a> - Fisiologia Humana, rehabilitation en lesiones medulares, fisiologia del ejercicio
+* <a href="https://app.oxford.emory.edu/WebApps/Directory/index.cfm/view/9478" target="_blank">Pablo Palomino</a> - Historia Argentina y Latinoamericana
+* <a href="https://www.linkedin.com/in/gustavosanabria/" target="_blank">Gustavo Sanabria</a> - Realidad Aumentada, Realidad Virtual, Inteligencia Artificial, Spatial Computing, AR/VR/XR/GenAI
+* <a href="https://www.linkedin.com/in/damian-romero-087723b4" target="_blank">Damian Romero</a> - Endocrinologia, Biologia Molecular y Celular
+* <a href="http://linkedin.com/in/cristina-rondinone-2319193" target="_blank">Cristina  Rondinone</a> - Research and development biotech medicina
+* <a href="linkedin.com/in/sandra-zittermann-86887364" target="_blank">Sandra Zittermann</a> - medicina trasfusional, procesamiento y productos de sangre, genotipificacion de celulas rojas 
