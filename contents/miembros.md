@@ -41,15 +41,15 @@
 * <a href="https://economics.mit.edu/people/faculty/ivan-werning" target="_blank">Ivan Werning</a> - economia, macroeconomia, finanzas publicas, internacional
 * <a href="https://www.linkedin.com/in/maria-susana-albano" target="_blank">Maria Susana Albano</a> - inmunoterapia celular  (CGT)
 * <a href="https://www.linkedin.com/in/monika-gonzalez-AR" target="_blank">Monika Gonzalez </a> - Gestión de la tecnología y la innovación. Asesoramiento a emprendimientos científicos y tecnológicos en fases tempranas. Vinculación entre gobiernos, universidades, empresas y centros de I+D. Mentorías a estudiantes e investigadores. Organización de hackathons, actividades de clubes de ciencias, concursos y muestras de Arte y Ciencia.
-* <a href="linkedin - Adriana Bonansea Frances" target="_blank">Adriana  Bonansea</a> - Medica especialista en alergia e inmunologia
-* <a href="Linkedin karim-sapag-unsl" target="_blank">Karim Sapag</a> - Materiales Nanoporosos aplicados en Energía, Ambiente y Salud
+* <a href="https://www.linkedin.com/in/adriana-bonansea-frances-23281b45/" target="_blank">Adriana  Bonansea</a> - Medica especialista en alergia e inmunologia
+* <a href="https://www.linkedin.com/in/karim-sapag-unsl/?originalSubdomain=ar" target="_blank">Karim Sapag</a> - Materiales Nanoporosos aplicados en Energía, Ambiente y Salud
 * <a href="https://linkedin.com/in/boggiano" target="_blank">César Boggiano</a> - Desarrollo de vacunas y biologics para prevenir VIH y tuberculosis.
 * <a href="https://www.linkedin.com/in/juan-peyrou" target="_blank">Juan Peyrou</a> - Sociología, historia de las ciencias, gestión en ciencia, tecnología e innovación, comunicación
 * <a href="https://www.linkedin.com/in/gabrieladelarranaga" target="_blank">Gabriela de Larrañaga</a> - Bioquimica
 * <a href="https://www.physics.missouri.edu" target="_blank">Carlos Wexler</a> - Fisica, Materiales, Materia Condensada, Adsorcion, Simulaciones
 * <a href="https://www.linkedin.com/in/andrea-capurro/" target="_blank">Andrea Capurro</a> - Conservación marina, sustentabilidad, asesoramiento en políticas basadas en evidencia científica, protección ambiental, Areas Marinas Protegidas, gestión sustentable de recursos vivos marinos
 * <a href="https://www.linkedin.com/in/german-drazer/" target="_blank">GErman Drazer</a> - Mecanica de fluidos, transporte en medios porosos, separacion, microfluidica, filtrado de aire
-* <a href="LinkedIn Clara berdasco" target="_blank">Clara Berdasco</a> - Neuroscience 
+* <a href="https://www.linkedin.com/in/clara-berdasco/" target="_blank">Clara Berdasco</a> - Neuroscience 
 * <a href="https://www.linkedin.com/in/maria-portal-7118ab92/" target="_blank">Maria Gabriela  Portal</a> - Inglés, Enseñanza, Lingüística Aplicada, Español para Extranjeros, Intercambios Culturales
 * <a href="https://orcid.org/0000-0002-7958-4218" target="_blank">Luciana Meni Battaglia</a> - Medicina
 * <a href="https://www.linkedin.com/in/erikafaraoni/" target="_blank">Erika Faraoni</a> - Cancer, Nutricion, Salud Hormonal, Medical & Scientific Writing
@@ -59,27 +59,27 @@
 * <a href="https://www.linkedin.com/in/miguel-mostafa-16604257/" target="_blank">Miguel Mostafa</a> - Astrofisica de particulas, decano de la facultad de ciencias
 * <a href="https://www.wilsoncenter.org/person/patricia-i-v%C3%A1squez" target="_blank">Patricia  Vasquez</a> - Litio-Minerales Críticos
 * <a href="https://www.hermanaguinis.com/" target="_blank">Herman Aguinis</a> - Administracion de empresas, gerencia, estrategia, negocios, liderazgo
-* <a href="www.linkedin.com/in/rominaearaya" target="_blank">Romina Elizabeth Araya</a> - Cancer, Microbiota, Immunologia
+* <a href="https://www.linkedin.com/in/rominaearaya" target="_blank">Romina Elizabeth Araya</a> - Cancer, Microbiota, Immunologia
 * <a href="https://www.nimh.nih.gov/research/research-conducted-at-nimh/research-areas/clinics-and-labs/etpb/about-us" target="_blank">Carlos Zarate</a> - depresión, trastorno bipolar, neurobiología, neurociencia clínica, psiquiatría, suicidio, tratamiento
 * <a href="DOCTOR@HGSMED.COM" target="_blank">HORACIO G SCHAPIRO MD SCHAPIRO</a> - MEDICINA
 * <a href="https://education.umd.edu/directory/carolina-napp-avelli" target="_blank">Carolina  Napp Avelli</a> - Educación matemática, didáctica de la matemática, Enseñanza del álgebra, Enseñanza de la matemática para alumnos multilingües, Relaciones entre familias y escuelas
 * <a href="https://orcid.org/0000-0002-2822-3412" target="_blank">María Emilia Rebollo</a> - Ornitología, Ecología, Conservación de la Biodiversidad
-* <a href="linkedin.com/in/mariaicasas5" target="_blank">Maria Isabel Casas</a> - bioquimica; biologia molecular; organizacion sin fines de lucro
+* <a href="https://www.linkedin.com/in/mariaicasas5" target="_blank">Maria Isabel Casas</a> - bioquimica; biologia molecular; organizacion sin fines de lucro
 * <a href="https://agomezvidal.com" target="_blank">Analía Gómez Vidal</a> - Coach profesional especializada en educación internacional y carreras de posgrado | Investigadora de Ciencia política, economía política, y género en política |
 Consultora de investigación y desarrollo profesional para instituciones educativas y de investigación
-* <a href="ORCID: 0000-0001-9930-8563" target="_blank">Maria Laura  Allende</a> - Terapia genética en modelos animales para la cura de enfermedades lisosomales
+* <a href="https://orcid.org/0000-0001-9930-8563" target="_blank">Maria Laura  Allende</a> - Terapia genética en modelos animales para la cura de enfermedades lisosomales
 * <a href="https://www.linkedin.com/in/wiggenhauser/" target="_blank">Nicolas Wiggenhauser</a> - Neurociencia; Parkinson's; Evolución; Inteligencia; Antropología Biológica;
 * <a href="No" target="_blank">Eduardo Callegari</a> - Proteomica
 * <a href="https://bsky.app/profile/sangasso.bsky.social" target="_blank">Santiago Gassó</a> - Satélites ópticos , detección remota de la atmósfera, aerosoles contaminación atmoferica, transporte de aerosoles el Sudamerica y hemisferio sur. Técnicas de transferencia radiativa y creación de algoritmos para satélites
-* <a href="www.math.temple.edu/szyld" target="_blank">Daniel Szyld</a> - Algebra Lineal Numerica, Analisis Numerico. Computacion en paralelo.
+* <a href="https://www.math.temple.edu/szyld" target="_blank">Daniel Szyld</a> - Algebra Lineal Numerica, Analisis Numerico. Computacion en paralelo.
 * <a href="https://profiles.hopkinsmedicine.org/provider/andres-matoso/2708014" target="_blank">Andres Matoso</a> - Patologia urologica
-* <a href="LinkedIn: Gabriela Evelyn Farias Quipildor" target="_blank">Gabriela Farias Quipildor</a> - Envejecimiento, Alzheimer's Disease, Microglia
+* <a href="https://www.linkedin.com/in/gabriela-evelyn-farias-quipildor-772742177" target="_blank">Gabriela Farias Quipildor</a> - Envejecimiento, Alzheimer's Disease, Microglia
 * <a href="https://www.worldbank.org/en/about/people/s/sergio-schmukler" target="_blank">Sergio Schmukler</a> - Economia
-* <a href="Linkedin" target="_blank">Guillermo Warley</a> - Inteligencia artificial, ingeniería electrónica, impacto social de las nueva tecnologías, fuentes de energía renovables.
-* <a href="WWW.Salidolab.com" target="_blank">Ezequiel SALIDO</a> - medicina, nerociencia, oftalmologia, matrices extracelulares
+* <a href="https://www.linkedin.com/in/guillermo-warley-b8002813" target="_blank">Guillermo Warley</a> - Inteligencia artificial, ingeniería electrónica, impacto social de las nueva tecnologías, fuentes de energía renovables.
+* <a href="https://WWW.Salidolab.com" target="_blank">Ezequiel SALIDO</a> - medicina, nerociencia, oftalmologia, matrices extracelulares
 * <a href="https://orcid.org/0000-0001-5329-7758" target="_blank">Daniela Terson de Paleville</a> - Fisiologia Humana, rehabilitation en lesiones medulares, fisiologia del ejercicio
 * <a href="https://app.oxford.emory.edu/WebApps/Directory/index.cfm/view/9478" target="_blank">Pablo Palomino</a> - Historia Argentina y Latinoamericana
 * <a href="https://www.linkedin.com/in/gustavosanabria/" target="_blank">Gustavo Sanabria</a> - Realidad Aumentada, Realidad Virtual, Inteligencia Artificial, Spatial Computing, AR/VR/XR/GenAI
 * <a href="https://www.linkedin.com/in/damian-romero-087723b4" target="_blank">Damian Romero</a> - Endocrinologia, Biologia Molecular y Celular
-* <a href="http://linkedin.com/in/cristina-rondinone-2319193" target="_blank">Cristina  Rondinone</a> - Research and development biotech medicina
-* <a href="linkedin.com/in/sandra-zittermann-86887364" target="_blank">Sandra Zittermann</a> - medicina trasfusional, procesamiento y productos de sangre, genotipificacion de celulas rojas 
+* <a href="https://www.linkedin.com/in/cristina-rondinone-2319193" target="_blank">Cristina  Rondinone</a> - Research and development biotech medicina
+* <a href="https://www.linkedin.com/in/sandra-zittermann-86887364" target="_blank">Sandra Zittermann</a> - medicina trasfusional, procesamiento y productos de sangre, genotipificacion de celulas rojas 
