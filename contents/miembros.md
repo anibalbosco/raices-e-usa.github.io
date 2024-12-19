@@ -61,7 +61,7 @@
 * <a href="https://www.hermanaguinis.com/" target="_blank">Herman Aguinis</a> - Administracion de empresas, gerencia, estrategia, negocios, liderazgo
 * <a href="https://www.linkedin.com/in/rominaearaya" target="_blank">Romina Elizabeth Araya</a> - Cancer, Microbiota, Immunologia
 * <a href="https://www.nimh.nih.gov/research/research-conducted-at-nimh/research-areas/clinics-and-labs/etpb/about-us" target="_blank">Carlos Zarate</a> - depresión, trastorno bipolar, neurobiología, neurociencia clínica, psiquiatría, suicidio, tratamiento
-* <a href="DOCTOR@HGSMED.COM" target="_blank">HORACIO G SCHAPIRO MD SCHAPIRO</a> - MEDICINA
+* <a href="https://doctors.gwhospital.com/provider/horacio-g-schapiro/1679891" target="_blank">Horacio G Schapiro MD</a> - MEDICINA
 * <a href="https://education.umd.edu/directory/carolina-napp-avelli" target="_blank">Carolina  Napp Avelli</a> - Educación matemática, didáctica de la matemática, Enseñanza del álgebra, Enseñanza de la matemática para alumnos multilingües, Relaciones entre familias y escuelas
 * <a href="https://orcid.org/0000-0002-2822-3412" target="_blank">María Emilia Rebollo</a> - Ornitología, Ecología, Conservación de la Biodiversidad
 * <a href="https://www.linkedin.com/in/mariaicasas5" target="_blank">Maria Isabel Casas</a> - bioquimica; biologia molecular; organizacion sin fines de lucro
