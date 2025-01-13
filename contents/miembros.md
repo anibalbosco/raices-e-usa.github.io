@@ -82,4 +82,8 @@ Consultora de investigación y desarrollo profesional para instituciones educati
 * <a href="https://www.linkedin.com/in/gustavosanabria/" target="_blank">Gustavo Sanabria</a> - Realidad Aumentada, Realidad Virtual, Inteligencia Artificial, Spatial Computing, AR/VR/XR/GenAI
 * <a href="https://www.linkedin.com/in/damian-romero-087723b4" target="_blank">Damian Romero</a> - Endocrinologia, Biologia Molecular y Celular
 * <a href="https://www.linkedin.com/in/cristina-rondinone-2319193" target="_blank">Cristina  Rondinone</a> - Research and development biotech medicina
-* <a href="https://www.linkedin.com/in/sandra-zittermann-86887364" target="_blank">Sandra Zittermann</a> - medicina trasfusional, procesamiento y productos de sangre, genotipificacion de celulas rojas 
+* <a href="https://www.linkedin.com/in/sandra-zittermann-86887364" target="_blank">Sandra Zittermann</a> - medicina trasfusional, procesamiento y productos de sangre, genotipificacion de celulas rojas
+* <a href="https://med.miami.edu/faculty/martin-a-rivas-phd" target="_blank">Martin	Rivas</a> - Genoma 3D, cancer, linfomas de celulas B, cancer de mama, bioquímica, complejo de cohesinas
+* <a href="https://anthropology.yale.edu/profile/eduardo-fernandez-duque" target="_blank">Eduardo	Fernandez-Duque</a> - biologia, antropologia biologica, ecologia, conservacion, primatologia, comportamiento, etologia, estadistica, metodologia de la investigacion
+* <a href="https://journalism.cas.lehigh.edu/faculty-staff/mariana-de-maio" target="_blank">Mariana De Maio</a> - Comunicación política, Periodismo y democracia, Prácticas periodísticas, Riesgo de la labor periodística, Medios y justicia social, Comunicación y salud pública
+* <a href="https://orcid.org/0000-0002-6400-9640" target="_blank">Carlos Oscar Lousto</a> - Astrofísica - Teoría General de la Relatividad
