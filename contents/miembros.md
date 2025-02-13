@@ -87,3 +87,8 @@ Consultora de investigación y desarrollo profesional para instituciones educati
 * <a href="https://anthropology.yale.edu/profile/eduardo-fernandez-duque" target="_blank">Eduardo	Fernandez-Duque</a> - biologia, antropologia biologica, ecologia, conservacion, primatologia, comportamiento, etologia, estadistica, metodologia de la investigacion
 * <a href="https://journalism.cas.lehigh.edu/faculty-staff/mariana-de-maio" target="_blank">Mariana De Maio</a> - Comunicación política, Periodismo y democracia, Prácticas periodísticas, Riesgo de la labor periodística, Medios y justicia social, Comunicación y salud pública
 * <a href="https://orcid.org/0000-0002-6400-9640" target="_blank">Carlos Oscar Lousto</a> - Astrofísica - Teoría General de la Relatividad
+* * <a href="https://www.linkedin.com/in/eliseo-perez-gomez-209a26264/" target="_blank">Eliseo Perez Gomez</a> - Ciencia de los materiales. Ciencia de superficies. Cinética química. Catálisis. Redes metalorgánicas
+  * * <a href="https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=16584" target="_blank">Sara Solla</a> - neurociencia teorica y computacional, redes de neuronas
+    * * <a href="https://www.linkedin.com/in/paula-caporal/" target="_blank">Paula Caporal</a> - Salud Pública
+      * * <a href="https://www.linkedin.com/in/carlos-pav%C3%A1n-b4604b156/" target="_blank">Carlos Humberto Pavan</a> - Química Biológica
+  * * <a href="https://www.linkedin.com/in/clara-latorre-md-6b5a0024/" target="_blank">Maria Clara Latorre</a> - Oncologia, Industria Pharma-Diagnostica, Genetica
