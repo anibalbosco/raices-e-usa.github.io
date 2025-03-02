@@ -13,12 +13,24 @@
     background-color: var(--h-title-color);
 }
 
+.hero {
+    width: 100vw; /* Full width of the viewport */
+    overflow: hidden; /* Prevents unwanted scrolling */
+}
+
+.hero-image {
+    padding: 4.5rem 0;
+    width: 100%; /* Ensures the image spans the full width */
+    height: auto; /* Maintains the aspect ratio, preventing cropping */
+    display: block; /* Removes extra spacing below the image */
+}
+
 .top-section {
     position: relative;
-    padding: 10rem 0;
+    padding: 0rem 0;
     background-position: center;
     background-size: cover;
-    height: 25rem;
+    height: 100%;
 }
 
 .top-section h2 {
