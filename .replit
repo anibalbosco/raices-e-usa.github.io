@@ -2,3 +2,15 @@ modules = ["web", "nodejs-20", "ruby-3.2"]
 
 [nix]
 channel = "stable-24_05"
+
+[workflows]
+runButton = "Preview"
+
+[[workflows.workflow]]
+name = "Preview"
+author = 12892958
+mode = "sequential"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "python -m http.server 5000 --bind 0.0.0.0"
