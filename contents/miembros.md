@@ -92,3 +92,6 @@ Consultora de investigación y desarrollo profesional para instituciones educati
 * <a href="https://www.linkedin.com/in/paula-caporal/" target="_blank">Paula Caporal</a> - Salud Pública
 * <a href="https://www.linkedin.com/in/carlos-pav%C3%A1n-b4604b156/" target="_blank">Carlos Humberto Pavan</a> - Química Biológica
 * <a href="https://www.linkedin.com/in/clara-latorre-md-6b5a0024/" target="_blank">Maria Clara Latorre</a> - Oncologia, Industria Pharma-Diagnostica, Genetica
+* <a href="https://www.linkedin.com/in/valeria-marcucci-34b69671" target="_blank">Valeria Marcucci</a> - Biologia Molecular y Genetica
+* <a href="https://www.linkedin.com/in/natalia-cardillo" target="_blank">Natalia Cardillo</a> - Veterinaria, Parasitologia, Farmacologia, Ensayos clinicos, epidemiologia
+* <a href="https://www.linkedin.com/in/roman-baravalle/" target="_blank">Roman Baravalle</a> - Neurociencia Computacional, Data Science, Programacion en Python
