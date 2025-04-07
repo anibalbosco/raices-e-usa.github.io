@@ -1,8 +1,11 @@
-#### Coordinador Científico (Chair):
+#### Coordinador Científico (Chair)
 Anibal Boscoboinik
 
-#### Coordinadora Técnica (Deputy Chair):
+#### Coordinadora Técnica (Deputy Chair)
 Julieta Bonvin Sallago
+
+#### Coordinador de Prensa y Medios Sociales
+Andrea Capurro
 
 #### Coordinador Web
 Andrés Colubri
@@ -24,5 +27,4 @@ Andrés Colubri
 - Horacio G. Rotstein
 - Sebastián Ceria
 
-#### Coordinador de Prensa y Medios Sociales
-Vacante
+
