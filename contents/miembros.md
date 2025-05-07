@@ -96,3 +96,5 @@ Consultora de investigación y desarrollo profesional para instituciones educati
 * <a href="https://www.linkedin.com/in/natalia-cardillo" target="_blank">Natalia Cardillo</a> - Veterinaria, Parasitologia, Farmacologia, Ensayos clinicos, epidemiologia
 * <a href="https://www.linkedin.com/in/roman-baravalle/" target="_blank">Roman Baravalle</a> - Neurociencia Computacional, Data Science, Programacion en Python
 * <a href="https://www.brainmodulationlab.org/alan-bush" target="_blank">Alan Bush</a> - Neuromodulación
+* <a href="https://www.linkedin.com/in/roman-baravalle/" target="_blank">Roman Baravalle</a> - Neurociencia Computacional, Data Science, Programacion en Python
+
